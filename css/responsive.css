@@ -322,8 +322,8 @@
 
 	}
 
-	section .container .row .col-sm-3 {
-		display: none;
+	section.container.row .col-sm-3 {
+		display: block;
 	}
 
 	.feature_items h2 .row .col-lg-3 {
